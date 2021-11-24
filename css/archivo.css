@@ -148,7 +148,7 @@ background-color:53F10E;
 }
 
 body {
-   background:  linear-gradient(90deg, #53F10E, #ccc)
+   background:  linear-gradient(90deg, #53F10E, rgb(255, 255, 255))
 
 }
 

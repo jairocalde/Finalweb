@@ -16,16 +16,16 @@ body {
 }
 
 .fondo_amarillo{
-    background:  linear-gradient(90deg, #fcf701, #ccc)
+    background:  linear-gradient(90deg, #fcf701, rgb(255, 253, 253))
 }
 
 .fondo_rojo{
-    background:  linear-gradient(90deg, #fc0101, #ccc)
+    background:  linear-gradient(90deg, #fc0101, rgb(255, 255, 255))
 }
 .fondo_azul{
-    background:  linear-gradient(90deg, #0198fc, #ccc)
+    background:  linear-gradient(90deg, #0198fc, rgb(255, 255, 255))
 }
 
 .fondo_morado{
-    background:  linear-gradient(90deg, #a001fc, #ccc)
+    background:  linear-gradient(90deg, #a001fc, rgb(255, 255, 255))
 }
